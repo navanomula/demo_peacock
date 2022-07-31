@@ -2,7 +2,7 @@ Greetings to the **MOST COMPLETE, CONTINUOUSLY UPDATED dbt (Data Build Tool) cou
 
 Thank you for joining us for 2022 Complete dbt (Data Build Tool) Bootcamp: Zero to Hero - we are super excited to have you in the course!
 
-The structure of the course is designed to have a top-down approach. It starts with the theory - all you need to know is to put dbt (Data Build Tool) in context and to have an understanding of how it fits into the modern data stack. We start with the big picture, then we go deeper and deeper. Once you learned about the pieces, we are going to shift to the technicalities - a practical section -, which will focus on putting together the dbt “puzzle”. The practical section will cover each and every single dbt feature present today through the construction of a complete, real-world project; Airbnb. This presents an opportunity for us to show you which features should be used at what stage in a given project, and you will see how dbt is used in the industry.
+The structure of the course is designed to have a top-down approach. It starts with the theory - all you need to know is to put dbt (Data Build Tool) in context and to have an understanding of how it fits into the modern data stack. We start with the big picture, then we go deeper and deeper. Once you learned about the pieces, we are going to shift to the technicalities - a practical section -, which will focus on putting together the dbt “puzzle”. The practical section will cover each and every single dbt feature present today through the construction of a complete, real-world project; Demo Data. This presents an opportunity for us to show you which features should be used at what stage in a given project, and you will see how dbt is used in the industry.
 
 **THEORETICAL SECTION:**
 
@@ -22,7 +22,7 @@ Once we understood the theoretical layer and how dbt fits into the picture, we a
 
 **PRACTICAL SECTION:**
 
-The practical section will go through a real-world Airbnb project where you will master the ins and outs of dbt! We put special focus on getting everyone up and ready before the technical deep dive, hence we will start off by setting up our Development Environment:
+The practical section will go through a real-world Demo Data project where you will master the ins and outs of dbt! We put special focus on getting everyone up and ready before the technical deep dive, hence we will start off by setting up our Development Environment:
 
  * MAC Development Environment Setup
  * WINDOWS Development Environment Setup
@@ -59,7 +59,7 @@ Once the theory and the practical stages are finished, we are going to dive into
 
 The course doesn't have any expectations about your abilities and starts education from zero. Every exercise is an unavoidable step in your studies. In the same way, don't start an exercise of a superior level without having completed the preceding ones: you will be in difficulty if you do so. Practice is the only way to learn and it cannot be taken lightly. We are going to be next to you along the journey and you have our absolute support!
 
-When the Airbnb project is presented to you, you have to do it in its entirety, without omitting any guidelines and by understanding the objective. A project "almost completely" done is often a project "totally incomplete" for us. Give special attention to detail. Your only reliable source of information regarding the instructions is the pedagogical team, don't trust the "I've heard".
+When the Demo Data project is presented to you, you have to do it in its entirety, without omitting any guidelines and by understanding the objective. A project "almost completely" done is often a project "totally incomplete" for us. Give special attention to detail. Your only reliable source of information regarding the instructions is the pedagogical team, don't trust the "I've heard".
 
 By the time you complete the course, you will be equipped with both a very solid theoretical understanding and practical expertise with dbt. All the fundamentals, dbt features, best practices, advanced techniques and more will be covered in our course, which will make you become a master in dbt. Are you ready? ;)
 
