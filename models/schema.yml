@@ -2,7 +2,7 @@ version: 2
 
 models:
   - name: dim_listings_cleansed
-    description: Cleansed table which contains Airbnb listings.
+    description: Cleansed table which contains Demo Data listings.
     columns:
 
       - name: listing_id
@@ -34,7 +34,7 @@ models:
           - positive_value
 
   - name: dim_hosts_cleansed
-    description: Cleansed table for the Airbnb hosts
+    description: Cleansed table for the Demo Data hosts
     columns:
       - name: host_id
         description: The id of the host. This is the primary key.
