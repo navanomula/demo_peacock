@@ -10,6 +10,6 @@
    )
 }}
 
-select * FROM {{ source('airbnb', 'listings') }}
+select * FROM {{ source('demodb', 'listings') }}
 
 {% endsnapshot %}
