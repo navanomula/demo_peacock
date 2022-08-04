@@ -6,6 +6,10 @@ sources:
     tables:
       - name: listings
         identifier: raw_listings
+        loaded_at_field: updated_at
+        freshness:
+          warn_after: {count: 365, period: day}
+          # error_after: {count: 24, period: hour}
 
       - name: hosts
         identifier: raw_hosts
@@ -15,4 +19,4 @@ sources:
         loaded_at_field: date
         freshness:
           warn_after: {count: 1, period: hour}
-          error_after: {count: 24, period: hour}
+          # error_after: {count: 24, period: hour}
